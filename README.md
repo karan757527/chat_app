@@ -62,7 +62,7 @@ To get started with the Django Chat Application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/devnamdev2003/django-chat-app.git
+   git clone https://github.com/karan757527/chat-app.git
    ```
 
 2. Create a virtual environment and install the project dependencies:
